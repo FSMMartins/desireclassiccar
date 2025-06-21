@@ -1,0 +1,8 @@
+{
+  "name": "Ferrari 250 GT",
+  "year": "1962",
+  "tags": ["Restauração Completa", "Motor", "Pintura"],
+  "description": "Restauração completa de um Ferrari 250 GT com atenção aos detalhes originais.",
+  "thumbnail": "/placeholder.svg",
+  "images": ["/placeholder.svg", "/placeholder.svg", "/placeholder.svg"]
+}
