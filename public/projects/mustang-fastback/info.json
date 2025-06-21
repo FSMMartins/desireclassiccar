@@ -1,0 +1,8 @@
+{
+  "name": "Ford Mustang Fastback",
+  "year": "1967",
+  "tags": ["Pintura", "Interior", "Restauração Completa"],
+  "description": "Restauração total com modificações da época e pintura personalizada.",
+  "thumbnail": "/placeholder.svg",
+  "images": ["/placeholder.svg", "/placeholder.svg"]
+}

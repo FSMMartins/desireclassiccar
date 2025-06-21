@@ -1,0 +1,8 @@
+{
+  "name": "Alfa Romeo Giulia",
+  "year": "1970",
+  "tags": ["Pintura", "Motor"],
+  "description": "Restauração completa do Alfa Romeo Giulia com pintura original.",
+  "thumbnail": "/placeholder.svg",
+  "images": ["/placeholder.svg"]
+}

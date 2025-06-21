@@ -1,0 +1,8 @@
+{
+  "name": "BMW 2002",
+  "year": "1975",
+  "tags": ["Motor", "Interior"],
+  "description": "Restauração do clássico BMW 2002 com foco no motor e interior.",
+  "thumbnail": "/placeholder.svg",
+  "images": ["/placeholder.svg", "/placeholder.svg"]
+}
